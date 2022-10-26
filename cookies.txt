@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.hyosungheavyindustries.com	TRUE	/	FALSE	1999999999	WMONID	Dji-jNwwJCr
+www.hyosungheavyindustries.com	TRUE	/	FALSE	1999999999	JSESSIONID	ZI9MFAPcepkXmX8HuB7u3rWJQ6X3m1af9jeg4RBJOrlQKODjbf8gzDBRozsThiuG.B2CAP01_servlet_ECS10N
+
